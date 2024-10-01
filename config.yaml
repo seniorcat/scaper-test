@@ -1,0 +1,4 @@
+worker:
+  timeout: 30s
+  maxRecipes: 10
+  retryInterval: 5s
